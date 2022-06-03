@@ -1,0 +1,177 @@
+/* Main Background Image Starting */
+
+body{
+    background-image: url(./Pictures/image-lion-background.png);
+    background-color: #FC5E55;
+}
+
+/* Main Background Image End */
+
+/* Logo and Button Starting */
+
+.Main{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: pink; */
+}
+
+.nav{
+    border: 1px solid white;
+    padding: 5px;
+}
+
+/* Logo and Button End */
+
+/* Paragraph Starting */
+
+.New{
+    width: 75%;
+    margin: auto;
+    text-align: left;
+    display: flex;
+    /* color: black; */
+    /* background-color: aqua; */
+}
+
+.Abc{
+    /* width: 80%; */
+    /* margin: auto; */
+    /* text-align: center; */
+    /* background-color: blueviolet; */
+}
+
+.Abc2{
+ 
+}
+
+
+/* Paragraph End */
+
+/* Box With Image Starting */
+
+.Boxwithimg{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    /* background-color: brown; */
+}
+
+.Box1{
+    width: 30%;
+    border: 1px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 16.5px;
+    margin-right: 20px;
+    background-size: cover;
+    background-image:url(./Pictures/image-background-card1-b.jpg);
+}
+
+.Box2{
+    width: 30%;
+    border: 1px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    background-size: cover;
+    background-image: url(./Pictures/image-background-card2-b.jpg);
+}
+
+.Box3{
+    width: 30%;
+    border: 1px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 16.5px;
+    background-size: cover;
+    background-image: url(./Pictures/image-background-card3-b.jpg);
+}
+
+/* Box With Image End */
+
+/* Normal Box Starting */
+
+.Normalbox{
+    width: 75%;
+    /* height: 300px; */
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    color: white;
+    /* background-color: yellow; */
+}
+
+.Nbox1{
+    width: 45%;
+    border: 1px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 35px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Nbox2{
+    width: 45%;
+    border: 1px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Nbox3{
+    width: 45%;
+    border: 1px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 35px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Nbox4{
+    width: 45%;
+    border: 1px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* Normal Box End */
+
+/* Contact Starting */
+
+/* Paragraph Starting */
+
+.Paragraph{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+}
+
+/* Paragraph End */
+/*  */
+
+
+/* Contact End */
